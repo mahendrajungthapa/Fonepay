@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Wordpress-Plugin-blue.svg?style=flat-square&logo=wordpress" alt="WordPress Plugin" />
   <img src="https://img.shields.io/badge/payment-gateway-green.svg?style=flat-square&logo=fonepay" alt="Payment Gateway" />
-  <img src="https://img.shields.io/badge/version-1.0.0-lightgrey.svg?style=flat-square" alt="Version 1.0.0" />
+  <img src="https://img.shields.io/badge/version-1.3.0-lightgrey.svg?style=flat-square" alt="Version 1.0.0" />
   <img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square" alt="License MIT" />
 </p>
 
@@ -58,7 +58,7 @@ Contributions are what make the open-source community an amazing place to learn,
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## 📫 Contact
 
