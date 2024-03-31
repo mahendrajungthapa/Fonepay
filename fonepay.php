@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Fonepay Payment Gateway
- * Plugin URI: http://mahendrathapa.com.np/
+ * Plugin URI: http://hamrodigital.com/
  * Description: Accept payments via Fonepay.
  * Author: MJ
  * Author URI: http://mahendrathapa.com.np/
