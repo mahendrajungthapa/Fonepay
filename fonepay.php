@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WooCommerce Fonepay Payment Gateway
+ * Plugin Name: Fonepay Payment Gateway
  * Plugin URI: http://mahendrathapa.com.np/
  * Description: Accept payments via Fonepay.
  * Author: MJ
