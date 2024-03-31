@@ -1,12 +1,15 @@
 <?php
 /**
  * Plugin Name: WooCommerce Fonepay Payment Gateway
- * Plugin URI: http://gamingsewa.com/
+ * Plugin URI: http://mahendrathapa.com.np/
  * Description: Accept payments via Fonepay.
  * Author: MJ
  * Author URI: http://mahendrathapa.com.np/
- * Version: 1.2
+ * Version: 1.3.0
+ * License: MIT
+ * License URI: https://opensource.org/licenses/MIT
  */
+
 
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly for security
