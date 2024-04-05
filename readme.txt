@@ -1,7 +1,7 @@
 /*
  * License: GPLv2 or later
  * 
- * Plugin Name: Fonepay Payment Gateway
+ * Plugin Name: Fonepay Payment Gateway Nepal
  * Plugin URI: https://github.com/mahendrajungthapa/Fonepay
  * Description: Accept payments via Fonepay .
  * Author: Mahendra Jung Thapa
