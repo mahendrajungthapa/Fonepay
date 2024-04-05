@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Fonepay Payment Gateway
- * Plugin URI: http://hamrodigital.com/
- * Description: Accept payments via Fonepay.
- * Author: MJ
+ * Plugin URI: https://github.com/mahendrajungthapa/Fonepay
+ * Description: Accept payments via Fonepay .
+ * Author: Mahendra Jung Thapa
  * Author URI: http://mahendrathapa.com.np/
  * Version: 1.3.0
- * License: MIT
- * License URI: https://opensource.org/licenses/MIT
+ * License: GPLv2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 
