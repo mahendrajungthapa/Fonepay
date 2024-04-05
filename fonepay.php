@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Fonepay Payment Gateway Nepal
+ * Plugin Name: Fonepay Payment Nepal
  * Plugin URI: https://github.com/mahendrajungthapa/Fonepay
  * Description: Accept payments via Fonepay .
  * Author: Mahendra Jung Thapa
