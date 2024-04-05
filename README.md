@@ -58,7 +58,7 @@ Contributions are what make the open-source community an amazing place to learn,
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the   License: GPLv2 or later. See `LICENSE.txt` for more information.
 
 ## 📫 Contact
 
